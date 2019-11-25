@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72513551296",
+    "firebase_url": "https://trigo-a8763.firebaseio.com",
+    "project_id": "trigo-a8763",
+    "storage_bucket": "trigo-a8763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72513551296:android:732f3fec29c6b7e9c42625",
+        "android_client_info": {
+          "package_name": "com.example.trigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72513551296-8pt1kg9t5cph4tc7pddo2avl08n2g73l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trigo",
+            "certificate_hash": "e1f41d494013ca537f83447435d3bf8879c86481"
+          }
+        },
+        {
+          "client_id": "72513551296-794g524bmhi87ei3jdrmiq5glmu2b8kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYsNLJD_0b1m_pRYSdQ8qRt_nzkdIFGPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72513551296-794g524bmhi87ei3jdrmiq5glmu2b8kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
